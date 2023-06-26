@@ -1,0 +1,2 @@
+age,trestbps,chol,fbs,restecg,thalach,oldpeak,cp_0,cp_1,cp_2,cp_3,thal_0,thal_1,thal_2,slope_0,slope_1,slope_2,ca_0,ca_1,ca_2,ca_3,restecg_0,restecg_1,restecg_2
+28,100,256,0,0,163,0.2,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0
